@@ -8,7 +8,7 @@ page 50124 "Sales Order1"
     layout
     {
         area(Content)
-        {
+        { 
             group(GroupName)
             {
                 field("No. of Orders"; Rec."No. of Orders")
